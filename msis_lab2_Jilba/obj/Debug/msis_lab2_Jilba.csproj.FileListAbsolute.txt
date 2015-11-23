@@ -1,0 +1,6 @@
+E:\BSUIR\sem_3\МСиСвИнфТ\msis_lab2_Djilba\msis_lab2_Jilba\msis_lab2_Jilba\bin\Debug\msis_lab2_Jilba.exe.config
+E:\BSUIR\sem_3\МСиСвИнфТ\msis_lab2_Djilba\msis_lab2_Jilba\msis_lab2_Jilba\bin\Debug\msis_lab2_Jilba.exe
+E:\BSUIR\sem_3\МСиСвИнфТ\msis_lab2_Djilba\msis_lab2_Jilba\msis_lab2_Jilba\bin\Debug\msis_lab2_Jilba.pdb
+E:\BSUIR\sem_3\МСиСвИнфТ\msis_lab2_Djilba\msis_lab2_Jilba\msis_lab2_Jilba\obj\Debug\msis_lab2_Jilba.csprojResolveAssemblyReference.cache
+E:\BSUIR\sem_3\МСиСвИнфТ\msis_lab2_Djilba\msis_lab2_Jilba\msis_lab2_Jilba\obj\Debug\msis_lab2_Jilba.exe
+E:\BSUIR\sem_3\МСиСвИнфТ\msis_lab2_Djilba\msis_lab2_Jilba\msis_lab2_Jilba\obj\Debug\msis_lab2_Jilba.pdb
